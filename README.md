@@ -1,4 +1,4 @@
-# Project-Magang-Peta-Informasi-UPTD-Wilayah-Sungai-Citarum
+# Peta-Informasi-UPTD-Wilayah-Sungai-Citarum
 Peta informasi Unit Pelaksana Teknis Daerah (UPTD) wilayah sungai Citarum
 
 ## Deskripsi
